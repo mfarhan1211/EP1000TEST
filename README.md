@@ -1,0 +1,2 @@
+# EP1000TEST
+ My EP1000 Blog
