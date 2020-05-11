@@ -6,7 +6,7 @@ defaults:
     values:
       layout: default
 
-title: EPBlog 1000
+title: EPBlog 10000
 subtitle: Digital Fab & Prototyping Fundamentals
 baseurl: "/epblogsite"  # the subpath of your site, e.g. /blog
 # theme: panthera-jekyll
